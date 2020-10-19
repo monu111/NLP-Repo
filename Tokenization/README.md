@@ -11,7 +11,7 @@ adding tokenization.
 
 ## 2.  Tokenizing Sentences : We can also tokenize the sentences in a paragraph by using  sent_tokenize.
 
-#### EX : Given below example consist word_tokenize :
+#### EX : Given below example consist sent_tokenize :
 - we use the __sent_tokenize__ method to split the paragraph into sentenes.
 
 ![t](https://user-images.githubusercontent.com/29980448/96455112-63ff2200-123a-11eb-8015-d463242e92bb.png)
